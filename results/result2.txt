@@ -1,0 +1,7 @@
+City: Brno střed
+Region: 64
+Country: Czechia
+Longitude: 16.6036
+Latitude: 49.2015
+ISP: Brno University of Technology
+
