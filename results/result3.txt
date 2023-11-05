@@ -1,5 +1,5 @@
-Facebook : yes
-Twitter : yes
+Facebook : no
+Twitter : no
 Linkedin : yes
 Instagram : no
 Skype : yes
