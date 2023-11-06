@@ -408,6 +408,7 @@ def advanced_lookup(username):
     "Connection": "close"}
     try:
         r = httpx.post(USERS_LOOKUP_URL,headers=headers,data=data)
+        print(r)
         rep=r.json()
         return({"user":rep,"error":None})
     except :
