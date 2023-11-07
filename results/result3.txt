@@ -1,5 +1,5 @@
-Facebook : no
+Facebook : yes
 Twitter : no
-Linkedin : yes
+Reddit : yes
 Instagram : yes
 Youtube : yes
